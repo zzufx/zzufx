@@ -1,7 +1,7 @@
-<p align="center">
-<a href="https://zzufx.github.io"><img src="https://zzufx.github.io/zzuficon_large.png" height="96" width="96" alt="zzuf" class="auto-style4"></p>
+<p align="center"><a href="https://zzufx.github.io"><img src="https://zzufx.github.io/img/zzuf_models.png" alt="zzuf"></p>
   
 ## PGM
+
 
 You can find my Minecraft PvP maps by clicking [this link](https://github.com/zzufx/zzuf-maps).<br>
 
