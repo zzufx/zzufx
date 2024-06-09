@@ -1,8 +1,4 @@
-<p align="center"><a href="https://zzufx.github.io"><img src="https://zzufx.github.io/img/zzuf_models.png" alt="zzuf"></p>
-  
 ## PGM
-
-
 You can find my Minecraft PvP maps by clicking [this link](https://github.com/zzufx/zzuf-maps).<br>
 
 For information on how to use the [bridge.xml](https://github.com/zzufx/zzuf-maps/blob/master/includes/bridge.xml) include, visit [this link](https://zzufx.github.io/bridge.html).<br>
